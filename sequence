@@ -1,0 +1,9 @@
+'If render is incorrect, install JetBrains Mono Font: https://www.jetbrains.com/ru-ru/lp/mono/
+skinparam DefaultFontName JetBrains Mono
+skinparam sequence {
+    ParticipantBackgroundColor White
+    ParticipantBorderColor Black
+    ArrowColor Black
+    LifeLineBorderColor Black
+    ActorBorderColor Black
+}
