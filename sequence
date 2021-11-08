@@ -1,11 +1,10 @@
-' !include https://raw.githubusercontent.com/kusaleev/plantuml-snoppets/main/sequence
 'If render is incorrect, install JetBrains Mono Font: https://www.jetbrains.com/ru-ru/lp/mono/
 skinparam DefaultFontName JetBrains Mono
 skinparam BoundaryBackgroundColor White
 skinparam sequence {
     ParticipantBackgroundColor White
-    ParticipantBorderColor #660000
-    ParticipantFontColor #660000 
+    ' ParticipantBorderColor #660000
+    ' ParticipantFontColor #660000 
     ArrowColor Black
     LifeLineBorderColor Black
     ActorBorderColor Black
