@@ -10,3 +10,4 @@ skinparam sequence {
     ActorBorderColor Black
     ActorBackgroundColor Gray
 }
+skinparam QueueBackgroundColor White
