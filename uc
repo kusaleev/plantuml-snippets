@@ -4,8 +4,8 @@ skinparam DefaultFontName JetBrains Mono
 skinparam BoundaryBackgroundColor White
 skinparam actor {
     Style Awesome
-    ' BorderColor Black
-    ' Background White
+    BorderColor Black
+    Background White
 }
 skinparam usecase {
     ' ParticipantBorderColor #660000
